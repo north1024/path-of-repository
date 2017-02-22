@@ -1,5 +1,5 @@
 # path-of-repository
-[1] Based on kaldi, CTC \newline
+[1] Based on kaldi, CTC $\newline$
 https://github.com/lingochamp/kaldi-ctc \\
 https://zhuanlan.zhihu.com/p/23177950
 
